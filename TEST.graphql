@@ -6,7 +6,7 @@ interface Node {
 
 """THIS IS A TEST FILE FOR CONTENT MEMORY AUTOMATIONS - part 2."""
 interface Node {
-  """TEST PART 2."""
+  """TEST PART 2 KARA MASTER TEST."""
   id: ID!
 }
 
