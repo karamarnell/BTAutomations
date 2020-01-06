@@ -1,6 +1,6 @@
 """Relay compatible Node interface TEST TEST."""
 interface Node {
-  """Global ID for a given object. KARA"""
+  """Global ID for a given object. CHANGE HERE SOURCE."""
   id: ID!
 }
 
